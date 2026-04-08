@@ -1,5 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Abhijitam01&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&rank_icon=github#gh-dark-mode-only" height="160" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Abhijitam01&theme=default&hide_border=true&show_icons=true&count_private=true&rank_icon=github#gh-light-mode-only" height="160" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Abhijitam01&bg_color=0d1117&title_color=e6edf3&text_color=8d96a0&icon_color=8d96a0&hide_border=true&show_icons=true&count_private=true&rank_icon=github" height="155" />
 
 ### Hey!
 
@@ -9,7 +8,7 @@
 
 ⚡ Exploring Solana, AI tools, and open source — one commit at a time.
 
-[![views](https://komarev.com/ghpvc/?username=Abhijitam01&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/Abhijitam01) [![twitter](https://img.shields.io/badge/twitter-@Abhijitam__tw-313131?style=flat&labelColor=545454&color=313131)](https://x.com/Abhijitam_tw) [![website](https://img.shields.io/badge/web-abhijitamdubey.site-313131?style=flat&labelColor=545454&color=313131)](https://abhijitamdubey.site)
+[![views](https://komarev.com/ghpvc/?username=Abhijitam01&style=flat&color=1a1a1a&labelColor=333333&label=profile+views)](https://github.com/Abhijitam01) [![twitter](https://img.shields.io/badge/twitter-@Abhijitam__tw-1a1a1a?style=flat&labelColor=333333)](https://x.com/Abhijitam_tw) [![website](https://img.shields.io/badge/web-abhijitamdubey.site-1a1a1a?style=flat&labelColor=333333)](https://abhijitamdubey.site)
 
 <br clear="right" />
 
@@ -18,10 +17,8 @@
 I joined GitHub **{{ ACCOUNT_AGE }}** years ago and have since pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, and earned **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects, with contributions to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhijitam01&theme=tokyonight&hide_border=true#gh-dark-mode-only" height="130" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhijitam01&theme=default&hide_border=true#gh-light-mode-only" height="130" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijitam01&theme=tokyonight&hide_border=true&layout=compact&langs_count=6#gh-dark-mode-only" height="130" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijitam01&theme=default&hide_border=true&layout=compact&langs_count=6#gh-light-mode-only" height="130" />
+  <img src="https://streak-stats.demolab.com?user=Abhijitam01&background=0D1117&border=30363d&ring=8d96a0&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=8d96a0&dates=8d96a0&sideNums=e6edf3&currStreakNum=e6edf3&hide_border=true" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijitam01&bg_color=0d1117&title_color=e6edf3&text_color=8d96a0&hide_border=true&layout=compact&langs_count=6" height="130" />
 </p>
 
 #### 🌀 Projects
