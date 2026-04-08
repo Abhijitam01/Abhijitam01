@@ -27,7 +27,7 @@ I joined GitHub **3** years ago and have since pushed **1162** commits, opened *
 | **Sketchy** | Sketching app | [GitHub](https://github.com/Abhijitam01/sketchy) |
 | **Chess** | Real-time multiplayer Chess with WebSockets | [GitHub](https://github.com/Abhijitam01/chess) |
 | **Solana Atlas** | Learning-first Solana playground with curated Native & Anchor templates | [GitHub](https://github.com/Abhijitam01/solana-atlas) · [Live](https://solana-atlas.xyz) |
-| **eyeSwitch** | TypeScript productivity tool | [GitHub](https://github.com/Abhijitam01/eyeswitch) |
+| **eyeSwitch** | TypeScript productivity tool | [GitHub](https://github.com/Abhijitam01/eyeswitch) · [Live](https://eyeswitch.abhijitamdubey.site) |
 | **Vizzy** | TypeScript visualization tool | [GitHub](https://github.com/Abhijitam01/vizzy) |
 | **SnippetVault** | A vault for your code snippets | [GitHub](https://github.com/Abhijitam01/snippetVault) · [Live](https://snippetvault.abhijitamdubey.site) |
 | **OpenRouter** | OpenRouter integration project | [GitHub](https://github.com/Abhijitam01/openRouter) |
@@ -50,6 +50,7 @@ I joined GitHub **3** years ago and have since pushed **1162** commits, opened *
 | **Category** | **Description** |
 | --- | --- |
 | **Building** | [Solana Atlas](https://solana-atlas.xyz) – A Solana learning playground with runnable templates & guides. |
+| | [Antimetal](https://antimetal.in) – A tool for system design. |
 | **Exploring** | AI-powered tools — [todoai](https://todoai.klashr.com), and system design tooling with [Antimetal](https://antimetal.in). |
 | **Contributing** | Open source – [opensox](https://github.com/Abhijitam01/opensox), [nao-og](https://github.com/Abhijitam01/nao-og), and more. |
 | **Shipping** | Full-stack: [Chess](https://github.com/Abhijitam01/chess), [Sketchy](https://github.com/Abhijitam01/sketchy), [eyeSwitch](https://github.com/Abhijitam01/eyeswitch). |
