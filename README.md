@@ -22,7 +22,7 @@ I joined GitHub **3** years ago and have since pushed **1162** commits, opened *
 
 | **Project** | **Description** | **Links** |
 | --- | --- | --- |
-| **Antimetal** | Cloud cost optimization tooling | [GitHub](https://github.com/Abhijitam01/antimetal) |
+| **Antimetal** | A tool for system design | [GitHub](https://github.com/Abhijitam01/antimetal) · [Live](https://antimetal.in) |
 | **Exnesos** | Financial platform project | [GitHub](https://github.com/Abhijitam01/exness) |
 | **Sketchy** | Sketching app | [GitHub](https://github.com/Abhijitam01/sketchy) |
 | **Chess** | Real-time multiplayer Chess with WebSockets | [GitHub](https://github.com/Abhijitam01/chess) |
@@ -50,7 +50,7 @@ I joined GitHub **3** years ago and have since pushed **1162** commits, opened *
 | **Category** | **Description** |
 | --- | --- |
 | **Building** | [Solana Atlas](https://solana-atlas.xyz) – A Solana learning playground with runnable templates & guides. |
-| **Exploring** | AI-powered tools — [todoai](https://todoai.klashr.com), and cloud tooling with Antimetal. |
+| **Exploring** | AI-powered tools — [todoai](https://todoai.klashr.com), and system design tooling with [Antimetal](https://antimetal.in). |
 | **Contributing** | Open source – [opensox](https://github.com/Abhijitam01/opensox), [nao-og](https://github.com/Abhijitam01/nao-og), and more. |
 | **Shipping** | Full-stack: [Chess](https://github.com/Abhijitam01/chess), [Sketchy](https://github.com/Abhijitam01/sketchy), [eyeSwitch](https://github.com/Abhijitam01/eyeswitch). |
 | **Connecting** | [X / Twitter](https://x.com/Abhijitam_tw) · [abhijitamdubey.site](https://abhijitamdubey.site) |
