@@ -1,0 +1,24 @@
+name: Update README stats
+
+on:
+  schedule:
+    - cron: '0 11 * * *'
+  push:
+    branches:
+      - master
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: orhun/profile-readme-stats@master
+        with:
+          USER_TOKEN: ${{ secrets.USER_TOKEN }}
+
+      - name: Commit if changed
+        run: |
+          git config user.name "Abhijitam Dubey"
+          git config user.email "abhijitam@users.noreply.github.com"
+          git diff --quiet README.md || (git add README.md && git commit -m "chore: update stats" && git push)
