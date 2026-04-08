@@ -1,41 +1,59 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Abhijitam01&bg_color=0d1117&title_color=e6edf3&text_color=8d96a0&icon_color=8d96a0&hide_border=true&show_icons=true&count_private=true&rank_icon=github" height="155" />
-
 ### Hey!
 
-👋 I'm **Abhijitam**.
+I'm **Abhijitam**.
 
-🛠️ A developer from India, building things for the web, blockchain, and beyond.
+A developer from India, building things for the web, blockchain, and beyond.
+Exploring Solana, AI tools, and open source — one commit at a time.
 
-⚡ Exploring Solana, AI tools, and open source — one commit at a time.
+[![profile views](https://komarev.com/ghpvc/?username=Abhijitam01&style=flat&color=1a1a1a&labelColor=2d2d2d&label=profile+views)](https://github.com/Abhijitam01) [![twitter](https://img.shields.io/badge/twitter-@Abhijitam__tw-1a1a1a?style=flat&labelColor=2d2d2d)](https://x.com/Abhijitam_tw) [![website](https://img.shields.io/badge/web-abhijitamdubey.site-1a1a1a?style=flat&labelColor=2d2d2d)](https://abhijitamdubey.site) [![followers](https://img.shields.io/github/followers/Abhijitam01?style=flat&color=1a1a1a&labelColor=2d2d2d&label=followers)](https://github.com/Abhijitam01?tab=followers)
 
-[![views](https://komarev.com/ghpvc/?username=Abhijitam01&style=flat&color=1a1a1a&labelColor=333333&label=profile+views)](https://github.com/Abhijitam01) [![twitter](https://img.shields.io/badge/twitter-@Abhijitam__tw-1a1a1a?style=flat&labelColor=333333)](https://x.com/Abhijitam_tw) [![website](https://img.shields.io/badge/web-abhijitamdubey.site-1a1a1a?style=flat&labelColor=333333)](https://abhijitamdubey.site)
+<br>
 
-<br clear="right" />
-
-#### ⚡ Stats
+#### Stats
 
 I joined GitHub **3** years ago and have since pushed **1162** commits, opened **3** issues, submitted **20** pull requests, and earned **10** stars across **69** personal projects, with contributions to **10** public repositories.
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhijitam01&background=0D1117&border=30363d&ring=8d96a0&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=8d96a0&dates=8d96a0&sideNums=e6edf3&currStreakNum=e6edf3&hide_border=true" height="130" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijitam01&bg_color=0d1117&title_color=e6edf3&text_color=8d96a0&hide_border=true&layout=compact&langs_count=6" height="130" />
+  <img src="https://streak-stats.demolab.com?user=Abhijitam01&background=0D1117&border=30363d&ring=8d96a0&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=8d96a0&dates=8d96a0&sideNums=e6edf3&currStreakNum=e6edf3&hide_border=true&stroke=30363d" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijitam01&bg_color=0d1117&title_color=e6edf3&text_color=8d96a0&hide_border=true&layout=compact&langs_count=6&card_width=300" height="130" />
 </p>
 
-#### 🌀 Projects
+#### Projects
 
-| **Own Projects** | **Open Source Contributions** |
+| **Project** | **Description** | **Links** |
+| --- | --- | --- |
+| **Antimetal** | Cloud cost optimization tooling | [GitHub](https://github.com/Abhijitam01/antimetal) |
+| **Exnesos** | Financial platform project | [GitHub](https://github.com/Abhijitam01/exness) |
+| **Sketchy** | Sketching app | [GitHub](https://github.com/Abhijitam01/sketchy) |
+| **Chess** | Real-time multiplayer Chess with WebSockets | [GitHub](https://github.com/Abhijitam01/chess) |
+| **Solana Atlas** | Learning-first Solana playground with curated Native & Anchor templates | [GitHub](https://github.com/Abhijitam01/solana-atlas) · [Live](https://solana-atlas.xyz) |
+| **eyeSwitch** | TypeScript productivity tool | [GitHub](https://github.com/Abhijitam01/eyeswitch) |
+| **Vizzy** | TypeScript visualization tool | [GitHub](https://github.com/Abhijitam01/vizzy) |
+| **SnippetVault** | A vault for your code snippets | [GitHub](https://github.com/Abhijitam01/snippetVault) · [Live](https://snippetvault.abhijitamdubey.site) |
+| **OpenRouter** | OpenRouter integration project | [GitHub](https://github.com/Abhijitam01/openRouter) |
+| **LoadZrn** | — | — |
+| **Errika NPM** | Published npm package | [GitHub](https://github.com/Abhijitam01/errika-npm) |
+| **Solana Launchpad** | Solana token launchpad | [GitHub](https://github.com/Abhijitam01/solana-launchpad) |
+| **Portfolio Website** | Personal developer portfolio | [GitHub](https://github.com/Abhijitam01/portfolio-website) · [Live](https://abhijitamdubey.site) |
+
+#### Open Source Contributions
+
+| **Project** | **Description** | **Links** |
+| --- | --- | --- |
+| **opensox** | Discover and contribute to open-source projects | [GitHub](https://github.com/Abhijitam01/opensox) |
+| **nao-og** | Open source analytics agent framework | [GitHub](https://github.com/Abhijitam01/nao-og) |
+| **InsForge** | Backend built for agentic development | [GitHub](https://github.com/Abhijitam01/InsForge) |
+| **agentbudget** | `ulimit` for AI agents — prevent budget overruns | [GitHub](https://github.com/Abhijitam01/agentbudget) |
+
+#### What am I working on?
+
+| **Category** | **Description** |
 | --- | --- |
-| • [solana-atlas](https://github.com/Abhijitam01/solana-atlas) - Learning-first Solana playground with curated Native & Anchor templates<br>• [chess](https://github.com/Abhijitam01/chess) - Real-time multiplayer Chess with WebSockets<br>• [todoai](https://github.com/Abhijitam01/todoai) - Turn your goals into daily todos, powered by AI<br>• [drawr](https://github.com/Abhijitam01/drawr) - Collaborative drawing & canvas app<br>• [sketchy](https://github.com/Abhijitam01/sketchy) - Sketching app<br>• [vizzy](https://github.com/Abhijitam01/vizzy) - TypeScript visualization tool<br>• [errika-npm](https://github.com/Abhijitam01/errika-npm) - Published npm package<br>• [dodge-erp-project](https://github.com/Abhijitam01/dodge-erp-project) - AI-powered SAP Order-to-Cash explorer with NL-to-SQL<br>• [antimetal](https://github.com/Abhijitam01/antimetal) - Cloud cost optimization tooling<br>• [portfolio-website](https://github.com/Abhijitam01/portfolio-website) - Personal developer portfolio<br>• [exness](https://github.com/Abhijitam01/exness) - Financial platform project<br>• [eyeswitch](https://github.com/Abhijitam01/eyeswitch) - TypeScript productivity tool | • [opensox](https://github.com/Abhijitam01/opensox) - Discover and contribute to open-source projects<br>• [nao-og](https://github.com/Abhijitam01/nao-og) - Open source analytics agent framework<br>• [InsForge](https://github.com/Abhijitam01/InsForge) - Backend built for agentic development<br>• [agentbudget](https://github.com/Abhijitam01/agentbudget) - `ulimit` for AI agents — prevent budget overruns |
-
-#### 🛠️ What am I working on?
-
-| **Category**      | **Description** |
-| ----------------- | --------------- |
-| **Building**      | [solana-atlas](https://github.com/Abhijitam01/solana-atlas) – A Solana learning playground with runnable templates & guides. |
-| **Exploring**     | AI-powered tools — [todoai](https://github.com/Abhijitam01/todoai), and cloud tooling with [antimetal](https://github.com/Abhijitam01/antimetal). |
-| **Contributing**  | Open source – [opensox](https://github.com/Abhijitam01/opensox), [nao-og](https://github.com/Abhijitam01/nao-og), and more. |
-| **Shipping**      | Full-stack: [chess](https://github.com/Abhijitam01/chess), [drawr](https://github.com/Abhijitam01/drawr), [sketchy](https://github.com/Abhijitam01/sketchy), [eyeswitch](https://github.com/Abhijitam01/eyeswitch). |
-| **Connecting**    | [X / Twitter](https://x.com/Abhijitam_tw) · [abhijitamdubey.site](https://abhijitamdubey.site) |
+| **Building** | [Solana Atlas](https://solana-atlas.xyz) – A Solana learning playground with runnable templates & guides. |
+| **Exploring** | AI-powered tools — [todoai](https://todoai.klashr.com), and cloud tooling with Antimetal. |
+| **Contributing** | Open source – [opensox](https://github.com/Abhijitam01/opensox), [nao-og](https://github.com/Abhijitam01/nao-og), and more. |
+| **Shipping** | Full-stack: [Chess](https://github.com/Abhijitam01/chess), [Sketchy](https://github.com/Abhijitam01/sketchy), [eyeSwitch](https://github.com/Abhijitam01/eyeswitch). |
+| **Connecting** | [X / Twitter](https://x.com/Abhijitam_tw) · [abhijitamdubey.site](https://abhijitamdubey.site) |
 
 ---
 
