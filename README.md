@@ -11,7 +11,7 @@ Exploring Solana, AI tools, and open source — one commit at a time.
 
 #### Stats
 
-I joined GitHub **3** years ago and have since pushed **1162** commits, opened **3** issues, submitted **20** pull requests, and earned **10** stars across **69** personal projects, with contributions to **10** public repositories.
+I joined GitHub **3** years ago and have since pushed **1782** commits, opened **8** issues, submitted **20** pull requests, and earned **10** stars across **69** personal projects, with contributions to **10** public repositories.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Abhijitam01&background=0D1117&border=30363d&ring=8d96a0&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=8d96a0&dates=8d96a0&sideNums=e6edf3&currStreakNum=e6edf3&hide_border=true&stroke=30363d" height="130" />
