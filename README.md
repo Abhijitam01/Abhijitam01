@@ -23,7 +23,7 @@ I joined GitHub **3** years ago and have since pushed **1782** commits, opened *
 | **Project** | **Description** | **Links** |
 | --- | --- | --- |
 | **Antimetal** | A tool for system design | [GitHub](https://github.com/Abhijitam01/antimetal) · [Live](https://antimetal.in) |
-| **Exnesos** | Financial platform project | [GitHub](https://github.com/Abhijitam01/exness) |
+| **Exness** | Financial platform project | [GitHub](https://github.com/Abhijitam01/exness) |
 | **Sketchy** | Sketching app | [GitHub](https://github.com/Abhijitam01/sketchy) |
 | **Chess** | Real-time multiplayer Chess with WebSockets | [GitHub](https://github.com/Abhijitam01/chess) |
 | **Solana Atlas** | Learning-first Solana playground with curated Native & Anchor templates | [GitHub](https://github.com/Abhijitam01/solana-atlas) · [Live](https://solana-atlas.xyz) |
